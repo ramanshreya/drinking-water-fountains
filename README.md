@@ -4,7 +4,7 @@ This project uses manually collected data on <i>pilares</i> or ancient drinking 
 
 These pilares were built as early as 14th century and a lot of them are well maintained and provide clean and cold drinking water. The primary purpose of this project was to create a geospatial database on these historically significant landmarks and to provide as a guide for tourists visiting the city.
 
-This project is also my first attempt at creating a concrete mapping project told through "scrollytelling". The final project can be found [here](www.ramanshreya.github.io/drinking-water-fountains)
+This project is also my first attempt at creating a concrete mapping project told through "scrollytelling". The final project can be found [here](https://ramanshreya.github.io/drinking-water-fountains/)
 
 ## The Process
 
